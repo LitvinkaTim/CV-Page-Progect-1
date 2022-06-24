@@ -1,0 +1,49 @@
+
+
+.navButton a{
+	transition-duration: 0.3s;
+}
+.btn:hover{
+	transition-duration: 0.2s;
+}
+.nav-btn a:hover{
+	transition:all, 0.3s;
+	background-color: #252c2f;
+	color: #ffb742;
+}
+.home_img img:hover{
+	width: 320px;
+	height: 320px;
+	transition-duration:  1s;
+	transition-timing-function: ease-in;
+}
+.works{
+	transition: 0.3s;
+	transition-property: opacity;
+}
+.works_navitem a{
+	transition-duration: 0.3s;
+	transition-property: background-color, color;
+}
+.item2_btn a:hover{
+	transition: background-color, 0.2s;
+	background-color: #252c2f;
+	border: 1px solid #000;
+	color: #ffb742;
+}
+.skills_btn a:hover{
+	transition: background-color, 0.2s;
+	background-color: #252c2f;
+	border: 1px solid #000;
+	color: #ffb742;
+}
+.box img:hover{
+	width: 55px;
+	height: 55px;
+	transition-duration: 0.2s;
+}
+.task_item3 a:hover{
+	transition-duration: 0.2s;
+	background-color: #252c2f;
+	color: #fff;
+}
